@@ -1,7 +1,7 @@
 {
-    "squadName" : "Super Hero Squad",
-    "homeTown" : "Metro City",
-    "formed" : 2016,
+    "squadName" : "Equipo de Super Héroes",
+    "homeTown" : "Herolandia",
+    "formed" : 2021,
     "secretBase" : "Super tower",
     "active" : true,
     "members" : [
@@ -13,6 +13,16 @@
           "Radiation resistance",
           "Turning tiny",
           "Radiation blast"
+        ]
+      },
+      {
+        "name" : "Super Moreno",
+        "age" : 129,
+        "secretIdentity" : "Dani Monroe",
+        "powers" : [
+          "Visión nocturna",
+          "Ralentizador del tiempo",
+          "Resistencia al fuego"
         ]
       },
       {
