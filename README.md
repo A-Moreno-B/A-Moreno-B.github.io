@@ -1,2 +1,2 @@
-# Página en GitHub
+## Página en GitHub
 Para experimentar y prácticar los cursos
