@@ -1,2 +1,2 @@
-# HTML
-Para el curso de Html
+# Página en GitHub
+Para experimentar y prácticar los cursos
